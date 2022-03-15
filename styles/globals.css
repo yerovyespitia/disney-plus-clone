@@ -12,7 +12,7 @@
 
 @layer components {
   .header-link {
-    @apply flex items-center space-x-2 cursor-pointer;
+    @apply flex items-center space-x-2 cursor-pointer font-body;
   }
 
   .span {
